@@ -1,0 +1,3 @@
+[submodule "potential-computing-machine"]
+	path = potential-computing-machine
+	url = https://github.com/peterjuma/potential-computing-machine.git
